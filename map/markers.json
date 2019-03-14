@@ -1,0 +1,44 @@
+markers = [
+	{
+     "name": "Moscow",
+     "url": "https://en.wikipedia.org/wiki/Moscow",
+     "lat": 55.755826,
+     "lng": 37.6173
+    },
+	{
+     "name": "Milan",
+     "url": "https://en.wikipedia.org/wiki/Milan",
+     "lat": 45.4654219,
+     "lng": 9.1859243
+    },
+	{
+     "name": "London",
+     "url": "https://en.wikipedia.org/wiki/London",
+     "lat": 51.5073509,
+     "lng": -0.1277583
+    },
+    {
+     "name": "Rome",
+     "url": "https://en.wikipedia.org/wiki/Rome",
+     "lat": 41.9027835,
+     "lng": 12.4963655
+   },
+   {
+     "name": "Kyiv",
+     "url": "https://en.wikipedia.org/wiki/Kyiv",
+     "lat": 50.4501,
+     "lng": 30.5234
+   },
+   {
+     "name": "Bucharest",
+     "url": "https://en.wikipedia.org/wiki/Bucharest",
+     "lat": 44.4267674,
+     "lng": 26.1025384
+   },
+   {
+     "name": "Paris",
+     "url": "https://en.wikipedia.org/wiki/Paris",
+     "lat": 48.856614,
+     "lng": 2.3522219
+   }
+];
